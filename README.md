@@ -1,7 +1,3 @@
-# Bloooooood! 
------
-Add the UML diagram for your project and the expected behavior and description.
-
 Approach to the Problem:
 -----
 I created an abstract class, called Creatures, which contains the basics of each specific reature that I create later on. This is because all creatures created, Human, Vampire, Preist, and Ogre, all have the same general characterists. These include a position, so an x and y, a direction, and a color. All creatures also can move the same way, where their x and y values are updated depending on what direction they are chosen to move in.
